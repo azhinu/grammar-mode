@@ -1,7 +1,7 @@
 {
   "name": "azhinu-grammar-mode",
   "main": "./lib/grammar-mode",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Force the grammar highlighting (\"mode\" in EMACS) of a file with a comment",
   "repository": {
     "type": "git",
