@@ -1,14 +1,32 @@
 {
-  "name": "grammar-mode",
+  "name": "azhinu-grammar-mode",
   "main": "./lib/grammar-mode",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Force the grammar highlighting (\"mode\" in EMACS) of a file with a comment",
-  "repository": "https://github.com/mark-hahn/grammar-mode",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azhinu/grammar-mode.git"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">0.180.0"
   },
   "dependencies": {
     "sub-atom": "^1.0.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/azhinu/grammar-mode/issues"
+  },
+  "homepage": "https://github.com/azhinu/grammar-mode#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "atom-package"
+  ],
+  "author": "Azhinu"
 }
