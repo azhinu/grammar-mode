@@ -1,0 +1,11 @@
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Grammar Mode'
+      'submenu': [
+        { 'label': 'Recheck', 'command': 'grammar-mode:recheck' }
+      ]
+    ]
+  }
+]
