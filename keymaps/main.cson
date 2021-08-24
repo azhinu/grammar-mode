@@ -1,2 +1,2 @@
 'atom-workspace':
-  'crtl+shift+g': 'grammar-mode:recheck'
+  'cmd-shift-g': 'grammar-mode:recheck'
